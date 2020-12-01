@@ -53,7 +53,6 @@ namespace LibreriaMCD
         public static void Es5(int n)
         {
             int i = 1, count = 0;
-            
             while (i <= n/2)
             {
                 if (n % i == 0)
